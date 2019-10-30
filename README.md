@@ -1,8 +1,4 @@
-# SimplyDeep
-A simple introduction to deep learning
-
-
-# A simple introduction to deep learning
+# SimplyDeep: A Simple Introduction to Deep Learning
 ## Haiping Lu - University of Sheffield
 
 ### Why
