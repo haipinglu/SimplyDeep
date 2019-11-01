@@ -1,6 +1,8 @@
 # SimplyDeep: A Simple Introduction to Deep Learning
 ## Haiping Lu - University of Sheffield
 
+The aim is **Simple**. If you think this can be made simpler, let me know please.
+
 ### Why
 * We are teaching a class of 200+ MSc students with diverse background. 
 * We need to move from a traditional machine learning course [MLAI](https://github.com/maalvarezl/MLAI) without much deep learning to a modern one with these cool words.
