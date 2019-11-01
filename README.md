@@ -1,7 +1,7 @@
 # SimplyDeep: A Simple Introduction to Deep Learning
 ## Haiping Lu - University of Sheffield
 
-The aim is **Simple**. If you think this can be made simpler, let me know please.
+**Simple** is the key focus here. If you think this can be made simpler, let me know please.
 
 ### Why
 * We are teaching a class of 200+ MSc students with diverse background. 
