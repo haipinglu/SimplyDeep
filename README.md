@@ -15,7 +15,8 @@
 * Feedback from all is essential to grow this project and benefit more. Thank you!
 
 ### What (contents)
-#### What's not covered: GPU computing, considering 200+ users, though we will provide references when convenient.
+#### What's not covered
+GPU computing, considering 200+ users, though we will provide references when convenient.
 * Session 1: Introduction to Deep Learning with PyTorch 
 
 ## Acknowledgement
