@@ -6,7 +6,7 @@
 ### Why
 * We are teaching a class of 200+ MSc students with diverse background. 
 * We need to transform a traditional machine learning course [MLAI](https://github.com/maalvarezl/MLAI) without much deep learning to a modern one with these cool words.
-* Based on my experience in developing the [Scalable Machine Learning](https://github.com/haipinglu/ScalableML), I decided to start this project aiming to give a **simple** introduction to deep learning while bridging our traditional materials with modern materials.
+* Based on my experience in developing the [Scalable Machine Learning](https://github.com/haipinglu/ScalableML) for three years, I decided to start this project aiming to give a **simple** introduction to deep learning while bridging our traditional materials with modern materials.
 
 ### How
 * Most materials will be adapted from internet sources, with acknowledgement properly given. If you find I've used your materials but did not acknowledge it, please let me know and I will fix it as soon as I can. 
