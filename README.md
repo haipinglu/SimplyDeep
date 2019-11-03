@@ -21,7 +21,7 @@
 #### What's not covered
 **GPU** computing, considering 200+ users, though we will provide references when convenient.
 #### Contents
-* Session 1: Introduction to Deep Learning with PyTorch 
+__1: Linear regression with PyTorch 
 
 ## Acknowledgement
 The materials were built with references to the following sources:
