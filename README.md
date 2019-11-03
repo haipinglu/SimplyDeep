@@ -16,7 +16,7 @@
 
 ### What
 #### What's not covered
-GPU computing, considering 200+ users, though we will provide references when convenient.
+**GPU** computing, considering 200+ users, though we will provide references when convenient.
 #### Contents
 * Session 1: Introduction to Deep Learning with PyTorch 
 
