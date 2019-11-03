@@ -14,9 +14,10 @@
 * The objective is to keep things as simple as possible, and make our transition as smooth as possible.
 * Feedback from all is essential to grow this project and benefit more. Thank you!
 
-### What (contents)
+### What
 #### What's not covered
 GPU computing, considering 200+ users, though we will provide references when convenient.
+#### Contents
 * Session 1: Introduction to Deep Learning with PyTorch 
 
 ## Acknowledgement
