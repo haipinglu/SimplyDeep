@@ -18,8 +18,7 @@
 * Feedback from all is essential to grow this project and benefit more. Thank you!
 
 ### What
-#### What's not covered
-**GPU** computing, considering 200+ users, though we will provide references when convenient.
+Considering 200+ users, **GPU** computing will be lightly touched only. Those interested are encouraged to refer to references.
 #### Contents
 * Session 1: Linear regression with PyTorch 
 
