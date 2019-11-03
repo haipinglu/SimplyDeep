@@ -27,6 +27,7 @@ The materials were built with references to the following sources:
 * The [PyTorch Tutorial](https://pytorch.org/tutorials/)
 * The [PyTorch Examples](https://github.com/pytorch/examples)
 * The [PyTorch Documentations](https://pytorch.org/docs/stable/index.html)
+* The [PyTorch package source](https://github.com/pytorch/pytorch)
 * Udacity's [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch)
 
 *If you find I've used your materials but did not acknowledge it, please let me know and I will fix it as soon as I can.* 
