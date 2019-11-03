@@ -19,7 +19,7 @@
 
 ### What
 Considering 200+ users, **GPU** computing will be lightly touched only. Those interested are encouraged to refer to references.
-#### Contents
+We will cover the following topics:
 * Session 1: Linear regression with PyTorch 
 
 ## Acknowledgement
