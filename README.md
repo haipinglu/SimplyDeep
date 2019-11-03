@@ -25,6 +25,7 @@ We will cover the following topics:
 ## Acknowledgement
 The materials were built with references to the following sources:
 * The official [PyTorch Tutorial](https://pytorch.org/tutorials/)
+* The official [PyTorch Examples](https://github.com/pytorch/examples)
 * Udacity's [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch)
 
 *If you find I've used your materials but did not acknowledge it, please let me know and I will fix it as soon as I can.* 
