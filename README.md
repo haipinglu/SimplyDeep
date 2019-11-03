@@ -21,7 +21,7 @@
 #### What's not covered
 **GPU** computing, considering 200+ users, though we will provide references when convenient.
 #### Contents
-__1: Linear regression with PyTorch 
+1. Linear regression with PyTorch 
 
 ## Acknowledgement
 The materials were built with references to the following sources:
