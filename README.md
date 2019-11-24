@@ -22,6 +22,7 @@
 We will cover the following topics:
 * Session 1: Linear Regression with PyTorch 
 * Session 2: Unsupervised Feature Learning with PyTorch
+* Session 3: Convolutional neural network for image classification
 
 ### GPU
 **GPU** computing will be lightly touched only. Those interested are encouraged to refer to references and try out [**free GPU access** provided by Google](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029) if you do not have one yet.
