@@ -26,7 +26,7 @@ We will cover the following topics:
 * Session 4: Data Preparation & CNN Transfer Learning
 
 ### GPU
-**GPU** computing will be lightly touched only. Those interested are encouraged to refer to references and try out [**free GPU access** provided by Google](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029) if you do not have one yet.
+**GPU** computing will be lightly touched only. Those interested are encouraged to refer to references and try out **free GPU access** provided by [Google Colab](https://colab.research.google.com/) if you do not have one yet. See [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
 ## Acknowledgement
 The materials were built with references to the following sources:
