@@ -23,10 +23,13 @@ If you find the code useful, please star the repository.
 ### What
 
 We will cover the following topics:
-* Session 1: Linear Regression with PyTorch 
-* Session 2: Unsupervised Feature Learning with PyTorch
-* Session 3: Convolutional neural network for image classification
-* Session 4: Data Preparation & CNN Transfer Learning
+* Lab 1: Linear Regression with PyTorch
+* Lab 2: Autoencoder for Unsupervised Feature Learning
+* Lab 3: Convolutional Neural Network for Image Classification
+* Lab 4: Data Preparation and Transfer Learning
+* Lab 5 - Variational Autoencoder for Deep Generative Learning
+* PyroLab 1: Bayesian Linear Regression for Generative Learning with Pyro
+* PyroLab 2: Variational Autoencoder for Deep Generative Learning
 
 ### GPU
 **GPU** computing will be lightly touched only. Those interested are encouraged to refer to references and try out **free GPU access** provided by [Google Colab](https://colab.research.google.com/) if you do not have one yet. See [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
