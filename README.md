@@ -1,7 +1,10 @@
 # SimplyDeep: A Simple Introduction to Deep Learning
-## Haiping Lu - University of Sheffield
 
-**Simple** is the key focus here. If you think this can be made simpler, let me know please.
+[Haiping Lu](http://staffwww.dcs.shef.ac.uk/people/H.Lu/) - The University of Sheffield
+
+If you find the code useful, please star the repository.
+
+**Simple** is the key focus here. If you think this can be made simpler, please let me know.
 
 ### Why
 * We are teaching a class of 200+ MSc students with diverse background. 
